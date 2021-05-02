@@ -1,0 +1,4 @@
+github.com/karalabe/cookiejar v0.0.0-20150724131613-8dcd6a7f4951 h1:RvrSyFrAPxRRT+esLZoyonA7dF476wyKZZoYhWa3m4g=
+github.com/karalabe/cookiejar v0.0.0-20150724131613-8dcd6a7f4951/go.mod h1:6HfYw/U2hmD5Ch5Iw2OjmitXa6EtSl25NmrMwB4h8bQ=
+gopkg.in/karalabe/cookiejar.v2 v2.0.0-20150724131613-8dcd6a7f4951 h1:DMTcQRFbEH62YPRWwOI647s2e5mHda3oBPMHfrLs2bw=
+gopkg.in/karalabe/cookiejar.v2 v2.0.0-20150724131613-8dcd6a7f4951/go.mod h1:owOxCRGGeAx1uugABik6K9oeNu1cgxP/R9ItzLDxNWA=
